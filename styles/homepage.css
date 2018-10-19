@@ -1,0 +1,153 @@
+
+body {
+	font: 16px century gothic;
+	color: #000;
+	background-color: #DCDCDC;
+	line-height: normal;
+}
+#main {
+	width: 1000px;
+	height: 500px;
+	background: none;
+	margin: auto;
+	top: 10px;
+}
+#box {
+	width: 804px;
+	height: 400px;
+	background: #eeb9d1;
+	margin-left: 98px;
+	margin-right: 98px;
+	overflow: hidden;
+	top: -40px;
+}
+#tin {
+	width: 750px;
+	height: 360px;
+	background: none;
+	left: 27px;
+	right: 27px;
+	overflow: auto;
+	padding-right: 52px;
+}
+#filler {
+	width: 300px;
+	height: 20px;
+	background: none;
+}
+a.tab:link, a.tab:visited, a.tab:active {
+	width: 160px;
+	height: 100px;
+	background: #f688ba;
+	float: left;
+	top: 25px;
+	left: 98px;
+	margin-left: 1px;
+	margin-right: 0px;
+	font: 16px courier new;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+	line-height: 32px;
+	text-transform: none;
+}
+a.tab:hover {
+	top: 10px;
+}
+.one {
+	font: 12px tahoma;
+	letter-spacing: -1px;
+	font-weight: bold;
+	color: #000;
+}
+.two {
+	font: 14px tahoma;
+	color: #000;
+}
+h1 {
+	font: 20px georgia;
+	color: #e11691;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+	text-transform: uppercase;
+	border-bottom: 2px dashed #A0522D;
+	margin-top: 0px;
+}
+h2 {
+	font: 20px georgia;
+	color: #556B2F;
+	text-align: center;
+	font-style: italic;
+	text-transform: uppercase;
+	border-left: 7px solid #333;
+	padding-left: 5px;
+	border-right: 7px solid #333;
+	padding-right: 5px;
+}
+
+h3 {
+	font: 24px tahoma;
+	color: #9b111e;
+	text-align: center;
+	font-weight: normal;
+	border-left: 7px solid #333;
+	padding-left: 5px;
+	border-right: 7px solid #333;
+	padding-right: 5px;
+	text-transform: uppercase;
+}
+
+a:link, a:visited, a:active {
+	font: 20px century gothic;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-decoration: none;
+	color: #e11691 ;
+}
+a:hover {
+	letter-spacing: 2px;
+	color: #333;
+}
+i {
+	font: 12px verdana;
+	font-weight: bold;
+	font-style: italic;
+}
+b {
+	font: 12px tahoma;
+	font-weight: bold;
+}
+textarea {
+	font: 9px verdana;
+	width: 88px;
+	height: 15px;
+	overflow: hidden;
+	background-color: #0067a5;
+	color: #333;
+	border: 1px solid #ccc;
+	margin: 2px;
+	margin-top: 0px;
+}
+textarea:hover {
+	border: 1px dotted #eee;
+	background: #bbb;
+	color: #fff;
+}
+</style><div id="main" style="position: relative;">
+<center><font class="two">Running Around with a Jack Russell...Is like having a second life.</font><font class="one"> -- Anonymous</font></center>
+
+<div id="box" style="position: relative;">
+<a name="0"></a>
+<div id="filler" style="position: relative;">
+</div>
+<div id="tin" style="position: relative; background: none;"><center>
+<img src="C:\Users\Monica Loas\Desktop\final_project_JL\webimages\dog-3684846_640.jpg" border="0">
+</center>
+</div>
+
+<a name="1"></a>
+<div id="filler" style="position: relative;">
+</div>
+<div id="tin" style="position: relative;">
+9
